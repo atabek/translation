@@ -83,6 +83,7 @@
                 <div class="title m-b-md">
                     Laravel
                 </div>
+                <p>{{ __('A fresh verification link has been sent to your email address.') }}</p>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
